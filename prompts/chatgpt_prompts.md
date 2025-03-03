@@ -41,4 +41,15 @@ Prompt4: qual o produto mais vendido?
 Atingiu o seu limite de análise de dados.
 Atualize para o ChatGPT Plus ou tente novamente amanhã após 15:52.
 
+Mas prompts possiveis seriam: 
+- Qual o produto mais vendido por país?
+- Qual a média de idade de compra?
+- Qual é o país com mais vendas?
+- Qual produto teve o maior desconto aplicado?
+- Qual é o país com mais vendas?
+- Qual plataforma (site) gerou mais vendas?
+
+Com base nestes dados podia saber que produtos produzir mais, quais a descontinuar e onde, enfim ainda dava para analisar bastante dados importantes.
+O ChatGPT gratuito está muito limitado e não me deixou analisar quase nada. Foi usado o xlsx consolidado.
+
 
