@@ -36,5 +36,9 @@ Prompt3: formata a resposta em markdown
 - **Nome do Produto:** MEGANIUM RG353M  
 - **Quantidade Vendida:** 29
 
+Prompt4: qual o produto mais vendido?
+
+Atingiu o seu limite de análise de dados.
+Atualize para o ChatGPT Plus ou tente novamente amanhã após 15:52.
 
 
